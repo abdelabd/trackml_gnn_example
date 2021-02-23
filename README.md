@@ -1,6 +1,6 @@
 ### From: https://github.com/GageDeZoort/interaction_network_paper
 
-##3 Construct graphs
+### Construct graphs
 python build_heptrkx_plus.py heptrkx_plus.py
 
 ### Build and train model, convert with torchscript
