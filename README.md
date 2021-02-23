@@ -1,3 +1,5 @@
+# From: https://github.com/GageDeZoort/interaction_network_paper
+
 # Construct graphs
 python build_heptrkx_plus.py heptrkx_plus.py
 
